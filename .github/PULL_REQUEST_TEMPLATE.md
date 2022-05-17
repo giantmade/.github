@@ -1,20 +1,16 @@
 # Changes Summary
----
 
 
 
 # Forecast Ticket Link(s)
----
 
 
 
 # FE Screenshots (If Applicable)
----
 
 
 
 # Author Checklist
----
 
 - [ ]  Can a reviewer skim this PR / Is this a non code change?
 - [ ]  Followed DRY (Don't repeat yourself)
