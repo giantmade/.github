@@ -10,7 +10,7 @@
 
 
 
-# Author Checklist
+<summary># Author Checklist</summary>
 
 - [ ]  Can a reviewer skim this PR / Is this a non code change?
 - [ ]  Followed DRY (Don't repeat yourself)
