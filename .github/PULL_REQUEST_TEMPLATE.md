@@ -12,6 +12,6 @@
 - [ ]  Non code change
 - [ ]  Followed DRY (Don't repeat yourself)
 - [ ]  Dependency Updates
-- [ ]  Migrations Required (& Applied)?
+- [ ]  Migrations Required
 - [ ]  Added tests
 </details>
