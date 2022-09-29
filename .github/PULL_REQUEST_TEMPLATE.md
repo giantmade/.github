@@ -6,17 +6,12 @@
 
 
 
-# FE Screenshots (If Applicable)
-
-
-
 <details>
     <summary><h4>Author Checklist</h4></summary>
 
-- [ ]  Can a reviewer skim this PR / Is this a non code change?
+- [ ]  Non code change
 - [ ]  Followed DRY (Don't repeat yourself)
-- [ ]  Migrations Required/Applied?
-- [ ]  Dependency Updates Required
-- [ ]  Tests Added
-- [ ]  Documentation Updated (If Applicable)
+- [ ]  Dependency Updates
+- [ ]  Migrations Required
+- [ ]  Added tests
 </details>
